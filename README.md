@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ondrej Masek</h1>
 <h3 align="center">Data Analytics student from Czechia</h3>
 <br>
-- 🔭 I’m currently working as **Data Capture Specialist for NEOOPS**
+- 🔭 I’m currently working as <b>Data Capture Specialist</b> for <b>NEOOPS</b>
 <br>
-- 🌱 Student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://feedbotvsefisbotweb6272.blob.core.windows.net/upload/thumbnails/logo-horizontal-cs-square-05-removebg-preview.png" alt="FIS VSE logo" width="100" margin-left="5" bottom="0"/></a>
+- 🌱 Student at <a target="_blank" href="https://fis.vse.cz/"><img src="https://feedbotvsefisbotweb6272.blob.core.windows.net/upload/thumbnails/logo-horizontal-cs-square-05-removebg-preview.png" alt="FIS VSE logo" width="80" margin-left="5" bottom="0"/></a>
 <br>
 
 <h3 align="left">Connect with me:</h3>
