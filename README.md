@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h3 align="center">FIS VSE student from Czechia</h3>
 <br>
 
-  🔭 Working as <b>Data Capture Specialist</b> for <a target="_blank" href="https://www.neoops.com"><img src="https://www.neoops.com/wp-content/uploads/2020/05/neoops-logo-web-retina.png" alt="NEOOPS logo" width="80" bottom="0"/></a>
+  🔭 Working as <b>Data Capture Specialist</b> for NEOOPS <!-- |certificate expired| <a target="_blank" href="https://www.neoops.com"><img src="https://www.neoops.com/wp-content/uploads/2020/05/neoops-logo-web-retina.png" alt="NEOOPS logo" width="80" bottom="0"/></a> -->
 <br>
 <br>
-  🌱 Undergraduate student of <b>Data Analytics</b> at <a target="_blank" href="https://fis.vse.cz/"><img src="https://feedbotvsefisbotweb6272.blob.core.windows.net/upload/thumbnails/logo-horizontal-cs-square-05-removebg-preview.png" alt="FIS VSE logo" width="80" bottom="0"/></a>
+  🌱 Undergraduate student of <b>Data Analytics</b> at <a target="_blank" href="https://fis.vse.cz/"><img src="https://gaudeamus.cz/getFile/type:large/id:518645/FIS_1_logo_rgb.jpg" alt="FIS VSE logo" width="80" bottom="0"/></a>
 <br>
 <br>
 
