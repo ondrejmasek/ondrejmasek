@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ondrej Masek</h1>
-<h3 align="center">FIS VSE student from Czechia</h3>
+<h3 align="center">FIS student from Czechia</h3>
 <br>
 
-  🔭 Working as <b>Junior Project Admin</b> and interning in research at <a target="_blank" href="https://www.fzu.cz"><img src="https://www.fzu.cz/sites/default/files/2020-05/FZU-L-EN-RGB.jpg" alt="FZU logo" width="140" bottom="0"/></a>
+  🔭 Working as <b>Junior Project Admin & Data Analyst</b> and interning in research at <a target="_blank" href="https://www.fzu.cz">FZU - Institute of Physics of the Czech Academy of Sciences</a>
 <br>
 <br>
-  🌱 Undergraduate student of <b>Data Analytics</b> at <a target="_blank" href="https://fis.vse.cz/"><img src="https://gaudeamus.cz/getFile/type:large/id:518645/FIS_1_logo_rgb.jpg" alt="FIS VSE logo" width="100" bottom="0"/></a>
+  🌱 Undergraduate student of <b>Data Analytics</b> at <a target="_blank" href="https://fis.vse.cz/">FIS - Faculty of Informatics and Statistics at Prague University of Economics and Business</a>
 <br>
 <br>
 
